@@ -20,21 +20,21 @@
 ## ◆ Selected Impact
 
 - 🚀 Delivered **50+ production websites** across multiple industries  
-- ⚡ Improved **page performance by 35%** (Core Web Vitals optimization)  
-- 📈 Increased **organic traffic by 25%** and **conversions by 18%**  
+- ⚡ Improved **page load performance by 35%** through Core Web Vitals optimization  
+- 📈 Increased **organic traffic by 25%** and **conversion rates by 18%**  
 - 👥 Built interfaces serving **200k+ monthly users**  
-- 🔄 Executed **zero-downtime migrations** at scale  
-- 🏆 Recognized **2× Star of the Month**  
+- 🔄 Executed **zero-downtime migrations** across multiple CMS platforms  
+- 🏆 Recognized **2× Star of the Month** for execution and delivery quality  
 
 ---
 
 ## ◆ About Me
 
 Frontend engineer with a strong foundation in **UI/UX, performance engineering, and SEO-driven development**.  
-Graduated with a **Bachelor of Computer Applications (BCA)** and transitioned into real-world production systems early in my career.
+Completed a **Bachelor of Computer Applications (BCA)** and began working on production systems during the final phase of the degree.
 
-Started as a **Junior Web Designer at Adaan Digital Solutions (Dec 2022)**, where I quickly moved beyond basic UI work to handling:
-- Full website migrations  
+Joined **Adaan Digital Solutions (December 2022)** and quickly moved from UI execution to handling:
+- Full-scale website migrations  
 - Performance optimization at scale  
 - Conversion-focused frontend systems  
 
@@ -48,13 +48,13 @@ I focus on building **fast, scalable, and business-impact-driven interfaces** �
 HTML • CSS • JavaScript • React  
 
 **🎨 UI Systems**  
-Tailwind • Bootstrap  
+Tailwind CSS • Bootstrap  
 
 **🌐 Platforms**  
 WordPress (Elementor) • Duda • Wix  
 
 **📊 Performance & SEO**  
-Core Web Vitals • Technical SEO • Schema • A/B Testing  
+Core Web Vitals • Technical SEO • Schema Markup • A/B Testing  
 
 **⚙️ Infrastructure & Tooling**  
 Git • GitHub • Webpack • Gulp • Netlify • GitHub Actions  
@@ -68,26 +68,26 @@ Figma • Photoshop
 
 ### Adaan Digital Solutions  
 **Junior Web Designer**  
-*Dec 2022 – Mar 2024 | New Delhi*
+*December 2022 – March 2024 | New Delhi, India*
 
-- 🚀 Led migration and redesign of **50+ websites** → **35% faster load time**  
-- 📊 Improved Core Web Vitals from *Needs Improvement → Good*  
-- 💻 Built scalable UI using **React, Tailwind, JavaScript** for **200k+ users**  
-- 📈 Increased **organic traffic (+25%)** and **conversion rates (+18%)**  
-- 🔄 Executed **zero-downtime migrations** preserving SEO rankings  
-- ⏱️ Delivered projects **2 weeks ahead of schedule** with **95% satisfaction**  
-- ⚙️ Implemented **CI/CD pipelines** using GitHub Actions & Netlify  
-- 🔧 Reduced build time by **20%** via Webpack & Gulp automation  
-- 👨‍🏫 Mentored interns on frontend best practices  
+- 🚀 Led migration and redesign of **50+ client websites**, reducing average page load time by **35%**  
+- 📊 Improved Core Web Vitals from *Needs Improvement → Good* across devices  
+- 💻 Built scalable, responsive UIs using **React, Tailwind CSS, HTML, CSS, and JavaScript** for **200k+ monthly users**  
+- 📈 Increased **organic traffic by 25%** and **lead conversions by 18%** within three months  
+- 🔄 Executed **zero-downtime website migrations**, preserving SEO rankings and data integrity  
+- ⏱️ Delivered releases **two weeks ahead of schedule** with **95% client satisfaction**  
+- ⚙️ Implemented **CI/CD pipelines** using GitHub Actions and Netlify for consistent deployments  
+- 🔧 Reduced frontend build times by **20%** by introducing automation with Webpack and Gulp  
+- 👨‍🏫 Mentored junior interns on frontend best practices and development workflows  
 
 ---
 
 ## ◆ Career Timeline
 
 - 🎓 **2019 – 2023** → Bachelor of Computer Applications (BCA)  
-- 💼 **Dec 2022** → Joined Adaan Digital Solutions  
-- 🚀 **2023 – 2024** → Delivered 50+ websites, optimized performance & SEO  
-- 🏆 **Recognitions** → Star of the Month (2×)  
+- 💼 **December 2022** → Joined Adaan Digital Solutions  
+- 🚀 **2023 – 2024** → Delivered 50+ websites with performance & SEO impact  
+- 🏆 **Recognition** → Star of the Month (2×)  
 
 ---
 
@@ -112,7 +112,7 @@ Indira Gandhi National Open University
 
 - 🏆 Star of the Month (2×)  
 - 📦 Delivered 50+ production-grade websites  
-- ⚡ Consistent performance optimization across projects  
+- ⚡ Consistent performance and SEO optimization across projects  
 - ⏱️ Early delivery with high client satisfaction  
 
 ---
